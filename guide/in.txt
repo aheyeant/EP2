@@ -1,0 +1,117 @@
+6
+sugarloaf
+maracana
+copacabana
+ipanema
+corcovado
+lapa
+7
+ipanema copacabana
+copacabana sugarloaf
+ipanema sugarloaf
+maracana lapa
+sugarloaf maracana
+corcovado sugarloaf
+lapa corcovado
+5
+guanabarabay
+downtown
+botanicgarden
+colombo
+sambodromo
+4
+guanabarabay sambodromo
+downtown sambodromo
+sambodromo botanicgarden
+colombo sambodromo
+10
+a
+d
+g
+h
+z
+b
+e
+i
+m
+k
+9
+a b
+b d
+d e
+e g
+h g
+h m
+m k
+k z
+i z
+10
+a
+d
+g
+h
+z
+b
+e
+i
+m
+k
+10
+a b
+b d
+d e
+e g
+h g
+a i
+h m
+m k
+k z
+i z
+7
+aa
+bb
+cc
+dd
+ee
+ff
+gg
+9
+aa gg
+aa bb
+bb gg
+cc gg
+cc dd
+dd gg
+ee gg
+ee ff
+ff gg
+6
+ff
+ee
+dd
+cc
+bb
+aa
+7
+aa bb
+bb cc
+cc aa
+ff ee
+ee dd
+dd ff
+dd bb
+3
+abc
+def
+ghi
+2
+abc def
+abc ghi
+3
+abc
+def
+ghi
+2
+def abc
+ghi abc
+0

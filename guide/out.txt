@@ -1,0 +1,31 @@
+City map #1: 1 camera(s) found
+sugarloaf
+
+City map #2: 1 camera(s) found
+sambodromo
+
+City map #3: 8 camera(s) found
+b
+d
+e
+g
+h
+k
+m
+z
+
+City map #4: 0 camera(s) found
+
+City map #5: 1 camera(s) found
+gg
+
+City map #6: 2 camera(s) found
+bb
+dd
+
+City map #7: 1 camera(s) found
+abc
+
+City map #8: 1 camera(s) found
+abc
+
